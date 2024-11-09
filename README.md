@@ -1,7 +1,7 @@
 # Python Keylogger & Web Phishing Project
 
 ## Project Overview
-The keylogger project report summarizes two spyware techniques for ethical hacking education: a Python keylogger and a phishing setup using BeEF. This report demonstrates how easily these methods can compromise sensitive information.
+This mini-project is a three-member team's work, aiming to explores two spyware techniques for ethical hacking education: a Python keylogger and a phishing setup using BeEF. This report demonstrates how easily these methods can compromise sensitive information.
 
 ### Introduction
 This project highlights the risks of spyware, showing how keystrokes and login credentials can be collected from target systems within a controlled ethical hacking environment.
